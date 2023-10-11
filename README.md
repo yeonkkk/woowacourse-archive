@@ -112,3 +112,35 @@
 - [[Spring] `@DirtiesContext`](https://velog.io/@tjddus0302/Spring-DirtiesContext)
 - [[Level 2] 레벨 인터뷰 회고](https://velog.io/@tjddus0302/lv2-%EB%A0%88%EB%B2%A8-%EC%9D%B8%ED%84%B0%EB%B7%B0-%ED%9A%8C%EA%B3%A0)
 
+
+<br><br><br><br>
+
+## Level 3
+
+### 기간
+- 2023.06.27 ~ 2023.08.18
+
+<br>
+
+### 팀 & 서비스 정보
+- [피움 프로젝트 소개글🌱](https://github.com/woowacourse-teams/2023-pium/wiki/%ED%94%BC%EC%9B%80-%EC%86%8C%EA%B0%9C%EA%B8%80)
+- [우아한기술블로그 - 우아한테크코스 5기 크루들의 서비스 출시](https://techblog.woowahan.com/13604/)
+- [팀 레포지토리](https://github.com/woowacourse-teams/2023-pium)
+- [팀 그라운드 룰](https://github.com/woowacourse-teams/2023-pium/wiki/%EA%B7%B8%EB%9D%BC%EC%9A%B4%EB%93%9C-%EB%A3%B0)
+- [팀 기술블로그](https://blog.pium.life/)
+- [레벨3 팀 프로젝트 최종 회고](https://github.com/woowacourse/retrospective/discussions/39#discussioncomment-6839721)
+
+<br>
+
+### 참여 파트
+- [Issues](https://github.com/woowacourse-teams/2023-pium/issues?q=assignee%3Ayeonkkk+)
+- [Pull Requests](https://github.com/woowacourse-teams/2023-pium/pulls?q=assignee%3Ayeonkkk+)
+
+<br>
+
+### 작성글
+- [공공데이터 활용하기](https://velog.io/@tjddus0302/python-%EA%B3%B5%EA%B3%B5%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%99%9C%EC%9A%A9%ED%95%98%EA%B8%B0)
+- [OAuth 2.0 로그인 구현하기 (카카오)](https://velog.io/@tjddus0302/OAuth-2.0-%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0)
+- [외부 API 를 의존하는 OAuth 로그인 테스트하기](https://velog.io/@tjddus0302/%EC%99%B8%EB%B6%80-API-%EB%A5%BC-%EC%9D%98%EC%A1%B4%ED%95%98%EB%8A%94-OAuth-%ED%85%8C%EC%8A%A4%ED%8A%B8%ED%95%98%EA%B8%B0)
+- [[Level 3] 레벨 인터뷰 회고](https://velog.io/@tjddus0302/lv3-%EB%A0%88%EB%B2%A8-%EC%9D%B8%ED%84%B0%EB%B7%B0-%ED%9A%8C%EA%B3%A0)
+

@@ -187,9 +187,9 @@
 |:-----------------:|:------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------:|:---------------------------------------:|
 |  Tomcat 구현하기 1~2  | [jwp-dashboard-http/step1](https://github.com/yeonkkk/jwp-dashboard-http/tree/step1) | [Pull Request](https://github.com/woowacourse/jwp-dashboard-http/pull/374) |  [콩하나](https://github.com/kong-hana01)  |
 |  Tomcat 구현하기 3~4  | [jwp-dashboard-http/step2](https://github.com/yeonkkk/jwp-dashboard-http/tree/step2) | [Pull Request](https://github.com/woowacourse/jwp-dashboard-http/pull/473) |  [콩하나](https://github.com/kong-hana01)  |
-|   `@MVC 구현하기` 1   |          [/step1](https://github.com/yeonkkk/jwp-dashboard-mvc/tree/step1)           | [Pull Request](https://github.com/woowacourse/jwp-dashboard-mvc/pull/378)  |  [오션](https://github.com/donghae-kim)   |
-|   `@MVC 구현하기` 2   |          [/step2](https://github.com/yeonkkk/jwp-dashboard-mvc/tree/step2)           | [Pull Request](https://github.com/woowacourse/jwp-dashboard-mvc/pull/519)  |  [오션](https://github.com/donghae-kim)   |
-|   `@MVC 구현하기` 3   |          [/step3](https://github.com/yeonkkk/jwp-dashboard-mvc/tree/step3)           | [Pull Request](https://github.com/woowacourse/jwp-dashboard-mvc/pull/551)  |  [오션](https://github.com/donghae-kim)   |
+|   `@MVC 구현하기` 1   |  [jwp-dashboard-mvc/step1](https://github.com/yeonkkk/jwp-dashboard-mvc/tree/step1)  | [Pull Request](https://github.com/woowacourse/jwp-dashboard-mvc/pull/378)  |  [오션](https://github.com/donghae-kim)   |
+|   `@MVC 구현하기` 2   |  [jwp-dashboard-mvc/step2](https://github.com/yeonkkk/jwp-dashboard-mvc/tree/step2)  | [Pull Request](https://github.com/woowacourse/jwp-dashboard-mvc/pull/519)  |  [오션](https://github.com/donghae-kim)   |
+|   `@MVC 구현하기` 3   |  [jwp-dashboard-mvc/step3](https://github.com/yeonkkk/jwp-dashboard-mvc/tree/step3)  | [Pull Request](https://github.com/woowacourse/jwp-dashboard-mvc/pull/551)  |  [오션](https://github.com/donghae-kim)   |
 | JDBC 라이브러리 구현하기 1 | [jwp-dashboard-jdbc/step1](https://github.com/yeonkkk/jwp-dashboard-jdbc/tree/step1) | [Pull Request](https://github.com/woowacourse/jwp-dashboard-jdbc/pull/274) | [하마드](https://github.com/rawfishthelgh) |
 | JDBC 라이브러리 구현하기 2 | [jwp-dashboard-jdbc/step2](https://github.com/yeonkkk/jwp-dashboard-jdbc/tree/step2) | [Pull Request](https://github.com/woowacourse/jwp-dashboard-jdbc/pull/392) | [하마드](https://github.com/rawfishthelgh) |
 | JDBC 라이브러리 구현하기 3 | [jwp-dashboard-jdbc/step3](https://github.com/yeonkkk/jwp-dashboard-jdbc/tree/step3) | [Pull Request](https://github.com/woowacourse/jwp-dashboard-jdbc/pull/495) | [하마드](https://github.com/rawfishthelgh) |
@@ -198,6 +198,7 @@
 <br>
 
 ### 작성글
+
 - [[DB] Concurrency Control 기초 1](https://velog.io/@tjddus0302/DB-Concurrency-Control-%EA%B8%B0%EC%B4%88-1)
 - [[DB] Concurrency Control 기초 2](https://velog.io/@tjddus0302/DB-Concurrency-Control-%EA%B8%B0%EC%B4%88-2)
 - [[DB] transaction isolation level](https://velog.io/@tjddus0302/transaction-isolation-level-%EA%B0%9C%EB%85%90)

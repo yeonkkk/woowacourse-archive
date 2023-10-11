@@ -67,5 +67,48 @@
 
 ### 작성글
 - [[Java] Inner class와 static](https://velog.io/@tjddus0302/Java-Inner-class%EC%99%80-static)
+- [[Java] 상수는 왜 static final로 선언할까?](https://velog.io/@tjddus0302/Java-%EC%83%81%EC%88%98%EB%8A%94-%EC%99%9C-static-final%EB%A1%9C-%EC%84%A0%EC%96%B8%ED%95%A0%EA%B9%8C)
+- [[Java] toString](https://velog.io/@tjddus0302/Java-toString)
 - [[Level 1] 사다리 타기 미션 학습 로그](https://velog.io/@tjddus0302/Lv1-%EC%82%AC%EB%8B%A4%EB%A6%AC-%ED%83%80%EA%B8%B0-%EB%AF%B8%EC%85%98-%ED%9A%8C%EA%B3%A0)
 - [[Level 1] 레벨 인터뷰 회고](https://velog.io/@tjddus0302/lv1-%EB%A0%88%EB%B2%A8%EB%A1%9C%EA%B7%B8-%ED%9A%8C%EA%B3%A0)
+
+
+<br><br><br><br>
+
+## Level 2
+
+### 기간
+- 2023.04.11 ~ 2023.06.09
+
+<br>
+
+### 학습 목표
+- 스프링 프레임워크를 이용해 웹 애플리케이션을 개발
+- 학습 테스트를 통해 새로운 기술을 익히고 미션에 적용
+- 클라우드 환경에 애플리케이션을 배포하고 운영
+- 새로운 기술을 익히는 본인만의 효과적인 학습 방법 찾기
+
+<br>
+
+### 진행 미션
+|  Mission  |       Repository        |                              Pull Request                              |  Pair  |
+|:---------:|:-----------------------:|:----------------------------------------------------------------------:|:------:|
+| 웹 자동차 경주  | [jwp-racingcar/step1](https://github.com/yeonkkk/jwp-racingcar/tree/step1) | [Pull Request](https://github.com/woowacourse/jwp-racingcar/pull/90) | [밀리](https://github.com/miseongk) |
+| 웹 자동차 경주  | [jwp-racingcar/step2](https://github.com/yeonkkk/jwp-racingcar/tree/step2) | [Pull Request](https://github.com/woowacourse/jwp-racingcar/pull/170) |        |
+|  쇼핑 장바구니  | [jwp-shopping-cart/step1](https://github.com/yeonkkk/jwp-shopping-cart/tree/step1) | [Pull Request](https://github.com/woowacourse/jwp-shopping-cart/pull/181) | [글렌](https://github.com/seokjin8678) |
+|  쇼핑 장바구니  | [jwp-shopping-cart/step2](https://github.com/yeonkkk/jwp-shopping-cart/tree/step2) | [Pull Request](https://github.com/woowacourse/jwp-shopping-cart/pull/346) |        |
+|    지하철    | [jwp-subway-path/step1](https://github.com/yeonkkk/jwp-subway-path/tree/step1) | [Pull Request](https://github.com/woowacourse/jwp-subway-path/pull/54) | [도치](https://github.com/hum02) |
+|    지하철    | [jwp-subway-path/step2](https://github.com/yeonkkk/jwp-subway-path/tree/step2) | [Pull Request](https://github.com/woowacourse/jwp-subway-path/pull/188) |        |
+| 쇼핑 주문(협업) | [jwp-shopping-order/step2](https://github.com/yeonkkk/jwp-shopping-order/tree/step1) | [Pull Request](https://github.com/woowacourse/jwp-shopping-order/pull/99) | [민트](https://github.com/yujamint) |
+
+<br>
+
+### 작성글
+- [[Spring] `@Controller`와 `@RestController`](https://velog.io/@tjddus0302/Spring-Controller%EC%99%80-RestController)
+- [[Spring] `@TestConfiguration`과 `@Import`](https://velog.io/@tjddus0302/Spring-TestConfiguration%EC%99%80-Import)
+- [[Spring] `@NotNull`, `@NotEmpty`, `@NotBlank`](https://velog.io/@tjddus0302/Spring-NotNull-NotEmpty-NotBlank)
+- [[Spring] HandlerMethodArgumentResolver](https://velog.io/@tjddus0302/Spring-HandlerMethodArgumentResolver)
+- [[Spring] Lombok `@Builder`](https://velog.io/@tjddus0302/Spring-Lombok-Builder)
+- [[Spring] `@DirtiesContext`](https://velog.io/@tjddus0302/Spring-DirtiesContext)
+- [[Level 2] 레벨 인터뷰 회고](https://velog.io/@tjddus0302/lv2-%EB%A0%88%EB%B2%A8-%EC%9D%B8%ED%84%B0%EB%B7%B0-%ED%9A%8C%EA%B3%A0)
+

@@ -1,6 +1,6 @@
 # woowacourse-archive
 
-[우아한테크코스 5기](https://techblog.woowahan.com/9395/) 기록
+[우아한테크코스 5기](https://techblog.woowahan.com/9395/)에서의 경험을 기록합니다.
 
 <br><br><br><br>
 
@@ -40,7 +40,7 @@
 
 <br><br><br><br>
 
-## Level 1
+## Level 1: 온보딩 & 프로그래밍 기본
 
 ### 기간
 
@@ -82,7 +82,7 @@
 
 <br><br><br><br>
 
-## Level 2
+## Level 2: 웹 프로그래밍
 
 ### 기간
 
@@ -125,7 +125,7 @@
 
 <br><br><br><br>
 
-## Level 3
+## Level 3: 팀 프로젝트
 
 ### 기간
 
@@ -160,7 +160,7 @@
 
 <br><br><br><br>
 
-## Level 4
+## Level 4: 웹 프로그래밍 심화, 팀 프로젝트
 
 ### 기간
 
@@ -194,6 +194,8 @@
 | JDBC 라이브러리 구현하기 2 | [jwp-dashboard-jdbc/step2](https://github.com/yeonkkk/jwp-dashboard-jdbc/tree/step2) | [Pull Request](https://github.com/woowacourse/jwp-dashboard-jdbc/pull/392) | [하마드](https://github.com/rawfishthelgh) |
 | JDBC 라이브러리 구현하기 3 | [jwp-dashboard-jdbc/step3](https://github.com/yeonkkk/jwp-dashboard-jdbc/tree/step3) | [Pull Request](https://github.com/woowacourse/jwp-dashboard-jdbc/pull/495) | [하마드](https://github.com/rawfishthelgh) |
 | JDBC 라이브러리 구현하기 4 | [jwp-dashboard-jdbc/step4](https://github.com/yeonkkk/jwp-dashboard-jdbc/tree/step4) | [Pull Request](https://github.com/woowacourse/jwp-dashboard-jdbc/pull/573) | [하마드](https://github.com/rawfishthelgh) |
+| 레거시 코드 리팩터링 | [jwp-refactoring/step1](https://github.com/yeonkkk/jwp-refactoring/tree/step1) | [Pull Request](https://github.com/woowacourse/jwp-refactoring/pull/533) | [도기](https://github.com/kdkdhoho) |
+
 
 <br>
 

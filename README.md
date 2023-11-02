@@ -195,6 +195,9 @@
 | JDBC 라이브러리 구현하기 3 | [jwp-dashboard-jdbc/step3](https://github.com/yeonkkk/jwp-dashboard-jdbc/tree/step3) | [Pull Request](https://github.com/woowacourse/jwp-dashboard-jdbc/pull/495) | [하마드](https://github.com/rawfishthelgh) |
 | JDBC 라이브러리 구현하기 4 | [jwp-dashboard-jdbc/step4](https://github.com/yeonkkk/jwp-dashboard-jdbc/tree/step4) | [Pull Request](https://github.com/woowacourse/jwp-dashboard-jdbc/pull/573) | [하마드](https://github.com/rawfishthelgh) |
 | 레거시 코드 리팩터링 | [jwp-refactoring/step1](https://github.com/yeonkkk/jwp-refactoring/tree/step1) | [Pull Request](https://github.com/woowacourse/jwp-refactoring/pull/533) | [도기](https://github.com/kdkdhoho) |
+| 레거시 코드 리팩터링 | [jwp-refactoring/step2](https://github.com/yeonkkk/jwp-refactoring/tree/step2) | [Pull Request](https://github.com/woowacourse/jwp-refactoring/pull/615) | [도기](https://github.com/kdkdhoho) |
+| 레거시 코드 리팩터링 | [jwp-refactoring/step3](https://github.com/yeonkkk/jwp-refactoring/tree/step3) | [Pull Request](https://github.com/woowacourse/jwp-refactoring/pull/701) | [도기](https://github.com/kdkdhoho) |
+| 레거시 코드 리팩터링 | [jwp-refactoring/step4](https://github.com/yeonkkk/jwp-refactoring/tree/step4) | [Pull Request](https://github.com/woowacourse/jwp-refactoring/pull/798) | [도기](https://github.com/kdkdhoho) |
 
 
 <br>

@@ -207,4 +207,12 @@
 - [[DB] Concurrency Control 기초 1](https://velog.io/@tjddus0302/DB-Concurrency-Control-%EA%B8%B0%EC%B4%88-1)
 - [[DB] Concurrency Control 기초 2](https://velog.io/@tjddus0302/DB-Concurrency-Control-%EA%B8%B0%EC%B4%88-2)
 - [[DB] transaction isolation level](https://velog.io/@tjddus0302/transaction-isolation-level-%EA%B0%9C%EB%85%90)
-- [[DB] Lock을 활용한 Concurrency Control 기법](https://velog.io/@tjddus0302/DB-Lock%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%9C-Concurrency-Control-%EA%B8%B0%EB%B2%95) 
+- [[DB] Lock을 활용한 Concurrency Control 기법](https://velog.io/@tjddus0302/DB-Lock%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%9C-Concurrency-Control-%EA%B8%B0%EB%B2%95)
+
+<br><br><br><br>
+
+## 스터디
+- [백엔드 발표 스터디(2023.03 ~ 2023.05)](https://github.com/woowacourse-study/2023-presentation-study/tree/main) : 원하는 주제를 학습하여 발표하며, 지식을 공유하고 발표 능력 향상 도모하는 스터디
+- [TAL STUDY(2023.04 ~ 현재)](https://github.com/woowacourse-study/2023-tal-study) : 책, 강의를 통해 네트워크에 대해 학습하고 지식을 공유하는 스터디
+- [DB DB DEEP(2023.09 ~ 현재)](https://github.com/woowacourse-study/2023-db-db-deep) : 강의를 통해 데이터베이스의 기초 개념에 대해 학습하고 지식을 공유하는 스터디
+

@@ -128,15 +128,6 @@
 - [Issues](https://github.com/woowacourse-teams/2023-pium/issues?q=assignee%3Ayeonkkk+)
 - [Pull Requests](https://github.com/woowacourse-teams/2023-pium/pulls?q=assignee%3Ayeonkkk+)
 
-<br>
-
-### 작성글
-
-- [공공데이터 활용하기](https://velog.io/@tjddus0302/python-%EA%B3%B5%EA%B3%B5%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%99%9C%EC%9A%A9%ED%95%98%EA%B8%B0)
-- [OAuth 2.0 로그인 구현하기 (카카오)](https://velog.io/@tjddus0302/OAuth-2.0-%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0)
-- [외부 API 를 의존하는 OAuth 로그인 테스트하기](https://velog.io/@tjddus0302/%EC%99%B8%EB%B6%80-API-%EB%A5%BC-%EC%9D%98%EC%A1%B4%ED%95%98%EB%8A%94-OAuth-%ED%85%8C%EC%8A%A4%ED%8A%B8%ED%95%98%EA%B8%B0)
-- [[Level 3] 레벨 인터뷰 회고](https://velog.io/@tjddus0302/lv3-%EB%A0%88%EB%B2%A8-%EC%9D%B8%ED%84%B0%EB%B7%B0-%ED%9A%8C%EA%B3%A0)
-
 <br><br><br><br>
 
 ## Level 4: 웹 프로그래밍 심화, 팀 프로젝트

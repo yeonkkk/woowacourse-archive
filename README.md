@@ -169,6 +169,10 @@
 | 레거시 코드 리팩터링 | [jwp-refactoring/step3](https://github.com/yeonkkk/jwp-refactoring/tree/step3) | [Pull Request](https://github.com/woowacourse/jwp-refactoring/pull/701) | [도기](https://github.com/kdkdhoho) |
 | 레거시 코드 리팩터링 | [jwp-refactoring/step4](https://github.com/yeonkkk/jwp-refactoring/tree/step4) | [Pull Request](https://github.com/woowacourse/jwp-refactoring/pull/798) | [도기](https://github.com/kdkdhoho) |
 
+<br><br><br><br>
+
+## 10분 테코톡
+- [DNS 와 ARP](https://www.youtube.com/watch?v=DfNGidKhY6U)
 
 <br><br><br><br>
 
